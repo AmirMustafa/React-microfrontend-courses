@@ -1,8 +1,6 @@
-
 <img width="1920" height="1080" alt="Screenshot 2026-04-01 at 5 53 47 PM" src="https://github.com/user-attachments/assets/90a53407-25b5-4ffa-9631-def15ea6eb12" />
 
-
-# Getting Started with Create React App
+# Getting Started with React Micro Frontend MFE App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
